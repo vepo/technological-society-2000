@@ -4,4 +4,4 @@ A Sociedade Tecnologica é um livro do escritor francês Jacques Ellul de 1954. 
 
 ![Capa](./resources/the-technological-society-cover.jpg)
 
-1. [Caso Facebook](./references/Facebook.md)
+1. [Caso Facebook](./cases/Facebook.md)
