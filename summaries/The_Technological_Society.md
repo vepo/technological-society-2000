@@ -1,10 +1,12 @@
 # A Sociedade Tecnológica
 
-# Técnica
+## Técnicas
+
+### Situando o Fenômeno Técnico
 
 > Nenhum acontecimento social, humano ou espiritual é tão importante quanto Técnica no mundo moderno. E ainda assim nenhum assunto é tão pouco entendido. Vamos tentar criar um guia para situar o fenômeno Técnico.
 
-### Máquinas e a Técnica
+#### Máquinas e a Técnica
 
 É um erro afirmar que Máquina e Técnica são termos intercambiáveis. A Máquina veio antes da Técnica, e é a puramente Técnica. Mas a Técnica é algo mais que a Máquina. A Técnica penetra na vida humana.
 
@@ -12,7 +14,7 @@ A Máquina é fria e o homem não consegue se adaptar a ela. A Técnica vem para
 
 _A Técnica transforma tudo o que toca em Máquina._ A Técnica evita o choque e eventos sensacionais, o homem não é adaptável ao mundo do aço, mas a Técnica faz ele se adaptar.
 
-### Ciência e a Técnica
+#### Ciência e a Técnica
 
 Alguns afirmam que a Téxnica é a aplicação da Ciência. Estes estão errados.
 
@@ -20,13 +22,13 @@ A Técnica vem antes da Ciência. Mesmo considerando a Ciência como surgida na 
 
 Elas não podem nem se correlacionar entre causa e efeito. Por exemplo, vemos que no caso do Motor a Vapor, a Técnica surgiu antes Ciência. Já haviam Máquinas produzidas, mesmo sem uma explicação formal para o fenômeno existente. Há uma diferença de dois séculos entre o domínio da Técnica e o entendimento científico. Temos também o exemplo contrario, no caso da Penicilina, foi descrito cientificamente seu efeito, mas por falta de uma Técnica para produção, esta não podia ser usada. Aqui falaremos sobre Técnica mais do que sobre Ciência.
 
-### Organização e a Técnica
+#### Organização e a Técnica
 
 Organização é o processo de designar atividades a indivíduos, ou grupos, para atingir objetivos predeterminados de maneira eficiente e econômica. Ela leva a padronização e a racionalização da vida economicamente e administrativamente. A padronização cria impessoalidade, tudo gira ao redor de métodos e instruções ao invés de indivíduos.
 
 Com o advento da Organização, a Técnica passa a ser aplicada a vida ordinária, se tornando onipresente em todas as esferas da vida.
 
-### Definições
+#### Definições
 
 Agora que identificamos a Técnica e a Máquina, e que não conseguimos encontrar uma boa definição para Técnica, vamos analisar algumas definições abertas a criticas para as criticando melhorar. Marcel Mauss, um sociólogo que entendeu o problema admiravelmente define: "A Técnica é um grupo de movimentos, de ações geralmente e principalmente manuais, organizados e tradicionais, que se unem para alcançar um fim conhecido, por exemplo, físico, químico ou orgânico."
 
@@ -46,7 +48,7 @@ Georges Friedmann começou a definir a técnica de modo abrangente, mas acabou r
 
 Porém grande parte do campo de atuação da Técnica não pode ser reduzida a números e é sobre essa parte que vamos nos debruçar. Se a posição de um cientista se baseia em reduzir um problema a apenas uma variável, seja essa o fator econômico, este deve se limitar a falar apenas dentro do seu reducionismo, deve se limitar aos seus _pseudo-problemas_. Em muitos casos a posição "científica" consiste em negar tudo que não cabe no método científico.
 
-### Operação Técnica e Fenômeno Técnico
+#### Operação Técnica e Fenômeno Técnico
 
 Técnica em si são meios e conjunto de meios. Nossa civilização é baseada nos meios, e de fato os meios são mais evidentes que os fins, caso contrários estamos falando de idealismos. Mas se fôssemos definir Técnica, com T maiúsculo, apenas assim iríamos ter uma definição muito fechada para o estudo que pretendo fazer. Para isso precisamos definir o que é Operação Técnica e Fenômeno Técnico.
 
@@ -69,3 +71,25 @@ O Fenômeno Técnico é o foco da nossa sociedade, procuramos sempre o modo mais
 1. Técnicas Econômicas são correlatas aos problemas de produção, divisão do trabalho.
 2. Técnicas Organizacional são correlatas as grandes massas, estado, administração e força policial
 3. Técnicas Humanas são aplicadas ao homem, podem varia da medicina e genética a propaganda.
+
+## Desenvolvimento Histórico
+
+### Técnica Primitiva
+
+A Técnica é a atividade mais primitiva do Homem. Não se pode dizer ao certo como foi a sua origem. Mas ela acompanha o homem desde o proprio surgimento da especie. São técnicas de caça, produção de roupas, pesca, etc...
+
+Podemos traçar dentro da história da técnica uma certa evolução, como um método é transformado em outro e assim evolui. Porém ainda fica a incognita do Fenômeno da Invenção.
+
+Como os homens domesticaram os animais? Podemos saber quais eram as forças motivadoras? Podiam ser religiosas. Podemos dizer que se cultivavam plantas com algum fim mágico. Porém não podemos afirmar como foi que uma planta foi escolhida como comestível, ou mesmo se tornou comestível.
+
+Mas podemos enfatizar algo, em toda a técnica primitava há uma ponte que liga o instinto e a técnica com uma aura mistica em todo o desenvolvimento subsequente.
+
+Nesse momento histórico a Técnica percore dois caminhos: o do produtor e o da mágina. A Mágica é uma Técnica no estrito senso da palavra. Ela envolve um processo de escolha de materiais, preparação de formulas, orações e rituais com um fim especifico. Quando se encontra uma forma definida de se obter um fim, porque alterar?
+
+A Mágica tem as caracteriscas da Técnica primitiva, protegem o homem em seu conflito com a matéria. O homem, por se só, é fraco, ele precisa transformar o ambiente para poder sobreviver.
+
+Podemos ver que a Técnica como uma linha evolutiva que resiste até os dias de hoje, porém não tomamos muita conciência Mágica por nossa mentalidade puramente materialista. Ela resiste ainda hoje em Tabus e Proibições, porém teve uma evolução um pouco diferente das Técnicas de produção. Como ela é associda a um povo e uma cultura marcados no tempo, a cada mudança civilizatório é abandonada. Sua transmissão se dá pela espiritualidade de um povo, que é perdida em muito dos casos.
+
+Quando um povo, etinia ou civilização são extintos sua espiritualidade é perdida, porém seus instrumentos são assimilados por outros povos.
+
+Essas duas formas da Técnica primitiva evoluiram de formas completamente distintas. Com a Produção vemos uma evolução crescente durante quase toda a história, porém com a Mágica vemos vários recomeços. A forma de transmitir elas são completamente distintas. Em se tratando de um Machado, podemos claramente decidir qual é a melhor forma de se fazer. Porém se compararmos com a Mágica, há uma forma objetiva de mensurar ela? Obviamente que não.
